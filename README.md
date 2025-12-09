@@ -1,4 +1,4 @@
-SimVLA Pilot (suggested name)
+SimVLA Pilot
 ==============================
 
 Vision-Language-Action sandbox that connects a PyBullet Franka Panda scene, YOLOv8 perception, a mock LLM parser, and a planner-driven controller via ROS 2.
