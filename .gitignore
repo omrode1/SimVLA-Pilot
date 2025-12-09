@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+
+# ROS 2 / colcon build artifacts
+vla_ws/build/
+vla_ws/install/
+vla_ws/log/
+build/
+install/
+log/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+

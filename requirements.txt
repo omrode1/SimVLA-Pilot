@@ -1,0 +1,7 @@
+pybullet
+numpy<2.0.0
+opencv-python
+ultralytics
+requests
+# rclpy is assumed to be provided by the ROS 2 environment
+
